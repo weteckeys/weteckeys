@@ -14,8 +14,8 @@ require("static/top_menu.php");
                 <div class="col-lg-6 col-xl-5">
                     <div class="banner_content">
                         <h3 class="dark-blue">Build a better<br />business & faster</h3>
-                        <p>We offer customized digital services and areone of the leading web develpers in tech IT industry</p>
-                        <a class="banner_btn" href="#">Contact us<i class="ti-arrow-right"></i></a>
+                        <p>We offer customized digital services and one of the leading web developers in tech IT industry</p>
+                        <a class="banner_btn" href="#contact_us">Contact us<i class="ti-arrow-right"></i></a>
                     </div>
                 </div>
 
@@ -34,7 +34,7 @@ require("static/top_menu.php");
                     <h4 class="pt-5">About Us</h4>
                     <!-- <h6>And appear great open bearing evening dominion vodi </h6> -->
 
-                    <p class="justify">Weteckeys is a mobile and web application development company. Our primary focus to provide professional, cost effective solutions to our clients. Clients from different geographical locations use our services to get best software
+                    <p class="justify">WeTecKeys is a mobile and web application development company. Our primary focus to provide professional, cost effective solutions to our clients. Clients from different geographical locations use our services to get best software
                         solutions. We have a creative team of skilled developers who have depth knowledge in various technologies including mobile and web applications development</p>
                 </div>
                 <div class="row d-none">
