@@ -23,11 +23,16 @@
             <div class="col-lg-3 col-sm-6 mb-4 mb-xl-0 single-footer-widget">
                 <h4>Important Link</h4>
                 <ul>
-                    <li><a href="index.php" class="text-white">Home</a></li>
-                    <li><a href="#about_us" class="text-white">About</a></li>
-                    <li><a href="#our_service" class="text-white">Services</a></li>
-                    <li><a href="#contact_us" class="text-white">Contact us</a></li>
-                    <!-- <li><a href="#" class="text-white">Our Shop</a></li> -->
+                    <!--<li><a href="index.php" class="text-white">Home</a></li>-->
+                    <!--<li><a href="#about_us" class="text-white">About</a></li>-->
+                    <!--<li><a href="#our_service" class="text-white">Services</a></li>-->
+                    <!--<li><a href="#contact_us" class="text-white">Contact us</a></li>-->
+                     <li><a href="https://merchant.razorpay.com/policy/KJjooFQKt2FP7V/privacy" class="text-white" target="_blank">Privacy</a></li>
+                     <li><a href="https://merchant.razorpay.com/policy/KJjooFQKt2FP7V/terms" class="text-white" target="_blank">Terms</a></li>
+                     <li><a href="https://merchant.razorpay.com/policy/KJjooFQKt2FP7V/refund" class="text-white" target="_blank">Refund</a></li>
+                     <li><a href="https://merchant.razorpay.com/policy/KJjooFQKt2FP7V/shipping" class="text-white" target="_blank">Shipping</a></li>
+                     <li><a href="https://merchant.razorpay.com/policy/KJjooFQKt2FP7V/contact_us" class="text-white" target="_blank">Contact Us</a></li>
+                     
                 </ul>
             </div>
 
